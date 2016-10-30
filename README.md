@@ -1,2 +1,2 @@
 # Compilers
-A tiny c compiler
+A tiny C compiler
